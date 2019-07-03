@@ -1,0 +1,10 @@
+bob - 660
+Vansh - 460
+Josh - 420
+Johnny - 330
+John - 300
+Bob - 280
+Randy - 220
+Donald - 210
+Duc - 200
+Jupiter - 180
